@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "FeriaEmpleoUtpl0.3",
+"dataUrl": "app0.1.data.unityweb",
+"wasmCodeUrl": "app0.1.wasm.code.unityweb",
+"wasmFrameworkUrl": "app0.1.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
