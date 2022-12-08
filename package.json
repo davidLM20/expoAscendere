@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/davidLM20/expoAscendere#readme",
   "dependencies":{
-    "express":"^4.17.1"
+    "express":"^4.18.2"
   },
   "engines": {
     "node": "v12.18.2",
